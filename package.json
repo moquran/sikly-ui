@@ -1,10 +1,10 @@
 {
-  "name": "vben-admin",
-  "version": "2.8.0",
+  "name": "sikly-ui",
+  "version": "3.0.0",
   "author": {
-    "name": "vben",
-    "email": "anncwb@126.com",
-    "url": "https://github.com/anncwb"
+    "name": "sikly",
+    "email": "2757750037@qq.com",
+    "url": "https://github.com/moquran"
   },
   "scripts": {
     "commit": "czg",
@@ -158,13 +158,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anncwb/vue-vben-admin.git"
+    "url": "git+https://github.com/moquran/sikly-ui.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anncwb/vue-vben-admin/issues"
+    "url": "https://github.com/moquran/sikly-ui/issues"
   },
-  "homepage": "https://github.com/anncwb/vue-vben-admin",
+  "homepage": "https://github.com/moquran/sikly-ui",
   "engines": {
     "node": "^12 || >=14"
   },
